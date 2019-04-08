@@ -1,0 +1,10 @@
+C:\Users\Catalin\Desktop\#WORK\anul2\SGBD\oJoaca\oJoaca\bin\Debug\oJoaca.exe.config
+C:\Users\Catalin\Desktop\#WORK\anul2\SGBD\oJoaca\oJoaca\bin\Debug\oJoaca.exe
+C:\Users\Catalin\Desktop\#WORK\anul2\SGBD\oJoaca\oJoaca\bin\Debug\oJoaca.pdb
+C:\Users\Catalin\Desktop\#WORK\anul2\SGBD\oJoaca\oJoaca\obj\Debug\oJoaca.csprojAssemblyReference.cache
+C:\Users\Catalin\Desktop\#WORK\anul2\SGBD\oJoaca\oJoaca\obj\Debug\oJoaca.Form1.resources
+C:\Users\Catalin\Desktop\#WORK\anul2\SGBD\oJoaca\oJoaca\obj\Debug\oJoaca.Properties.Resources.resources
+C:\Users\Catalin\Desktop\#WORK\anul2\SGBD\oJoaca\oJoaca\obj\Debug\oJoaca.csproj.GenerateResource.cache
+C:\Users\Catalin\Desktop\#WORK\anul2\SGBD\oJoaca\oJoaca\obj\Debug\oJoaca.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\#WORK\anul2\SGBD\oJoaca\oJoaca\obj\Debug\oJoaca.exe
+C:\Users\Catalin\Desktop\#WORK\anul2\SGBD\oJoaca\oJoaca\obj\Debug\oJoaca.pdb

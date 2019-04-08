@@ -1,0 +1,10 @@
+C:\Users\Catalin\Desktop\Lab2Binding\Lab2Binding\obj\Debug\Lab2Binding.csprojAssemblyReference.cache
+C:\Users\Catalin\Desktop\Lab2Binding\Lab2Binding\obj\Debug\Lab2Binding.Form1.resources
+C:\Users\Catalin\Desktop\Lab2Binding\Lab2Binding\obj\Debug\Lab2Binding.Properties.Resources.resources
+C:\Users\Catalin\Desktop\Lab2Binding\Lab2Binding\obj\Debug\Lab2Binding.csproj.GenerateResource.cache
+C:\Users\Catalin\Desktop\Lab2Binding\Lab2Binding\obj\Debug\Lab2Binding.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\Lab2Binding\Lab2Binding\bin\Debug\Lab2Binding.exe.config
+C:\Users\Catalin\Desktop\Lab2Binding\Lab2Binding\bin\Debug\Lab2Binding.exe
+C:\Users\Catalin\Desktop\Lab2Binding\Lab2Binding\bin\Debug\Lab2Binding.pdb
+C:\Users\Catalin\Desktop\Lab2Binding\Lab2Binding\obj\Debug\Lab2Binding.exe
+C:\Users\Catalin\Desktop\Lab2Binding\Lab2Binding\obj\Debug\Lab2Binding.pdb
